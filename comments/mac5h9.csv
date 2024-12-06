@@ -1,0 +1,26 @@
+COMMENT_ID,COMMENT_PARENT_ID,COMMENT_SCORE,COMMENT_DEPTH,COMMENT_CREATED_TIMESTAMP,AUTHOR_USERNAME,COMMENT_TEXT_CONTENT,MODEL_LABEL_CARDIFFNLP,MODEL_LABEL_FINITEAUTOMATA,MODEL_LABEL_SEETHAL,MODEL_MAJORITY
+grrt9hi,t3_mac5h9,13,0,1616381723.0,The_Merciless_Potato,I WANT TO EAT THOSE.,neutral,neutral,neutral,neutral
+grs335n,t3_mac5h9,13,0,1616388159.0,Wind_Lizard,WTF is that tattoo?,negative,neutral,neutral,neutral
+grrxdc5,t3_mac5h9,3,0,1616384218.0,Dina2205,😋 yummy,positive,neutral,neutral,neutral
+grsc99b,t3_mac5h9,3,0,1616396243.0,Snowy_Fox14,I'm hungry too... gimme some,neutral,neutral,neutral,neutral
+grsg4h7,t3_mac5h9,3,0,1616400094.0,,Did you give the doggo some or no?,neutral,neutral,neutral,neutral
+grt2lkb,t3_mac5h9,3,0,1616418787.0,ayeshrajans,Shit bro I'm sorry about that tattoo.,negative,neutral,neutral,neutral
+grslmys,t3_mac5h9,2,0,1616405841.0,tniromin,"Todays question of the day,What is the name of the dog ?
+
+Looks like dionsaur ,god",neutral,neutral,neutral,neutral
+grwwkja,t3_mac5h9,2,0,1616495366.0,,Rotti.,neutral,neutral,neutral,neutral
+grsoq33,t3_mac5h9,1,0,1616408851.0,Manodya_,Respect!,positive,neutral,neutral,neutral
+grrv4qi,t1_grrt9hi,21,1,1616382827.0,MrMacBro,Its rottie not those,neutral,neutral,neutral,neutral
+grs34yk,t1_grs335n,9,1,1616388196.0,MrMacBro,An elephant 🐘,neutral,neutral,neutral,neutral
+grs35r8,t1_grrxdc5,1,1,1616388215.0,MrMacBro,Yeah,neutral,neutral,neutral,neutral
+grse7zp,t1_grsc99b,2,1,1616398158.0,MrMacBro,It’s soooo taste 🤭🤭,positive,neutral,neutral,neutral
+grsllu8,t1_grsg4h7,1,1,1616405810.0,tniromin,unlikely eating choice for a dog,neutral,neutral,neutral,neutral
+grsn4tn,t1_grslmys,3,1,1616407325.0,MrMacBro,His pet name is Randy and Dog bread is Labrador retriever. 🐶♥️,neutral,neutral,neutral,neutral
+grrwp6m,t1_grrv4qi,7,2,1616383792.0,The_Merciless_Potato,I know but it’s your katta sambal that looks really good!,positive,positive,neutral,positive
+grse4n4,t1_grrv4qi,6,2,1616398067.0,azione81,Well played.,positive,neutral,neutral,neutral
+grsy0gs,t1_grrv4qi,2,2,1616416040.0,JANEESHa1234,"Thats not what he 
+meant",negative,neutral,neutral,neutral
+grstwss,t1_grs34yk,4,2,1616413181.0,NevaDeS,Not to be rude but it dosen't look good,negative,neutral,neutral,neutral
+grunrik,t1_grs34yk,1,2,1616444536.0,hellsbellssells,Did you get it done in SL? And if so who was the artist ?,neutral,neutral,neutral,neutral
+grstlxb,t1_grsn4tn,1,2,1616412953.0,tniromin,"i see,very nice dog.I both of u with good health",positive,positive,positive,positive
+grtitk4,t1_grsy0gs,1,3,1616426517.0,,Lol not sure if OP played tf out of that or really thought the comment was talking about those,negative,neutral,neutral,neutral
