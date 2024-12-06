@@ -1,22 +1,4 @@
-# Assignment 1
-
-## Team Name: Metaplexia
-### Members: 
-
-
-| Sl. No | Name                | Reg No.  |
-|--------|---------------------|----------|
-| 1      | Ritesh Patidar      | 22210034 |
-| 2      | Siddhesh Dosi       | 22210045 |
-| 3      | Anupam Sharma       | 22210006 |
-| 4      | Kowsik Nandagopan D | 22250016 |
-| 5      | Ankit Yadav         | 22270001 |
-| 6      | Sai Krishna Avula   | 22210036 |
-| 7      | Hitesh lodwal       | 22210019 |
-| 8      | Madhuri Awachar     | 22210023 |
-| 9      | Ayush Shrivastava   | 22210010 |
-
-* * *
+# Exploratory Data Analysis (EDA) - r/srilanka Top100 Posts and Comments
 
 This directory contains following files and directories:
 
